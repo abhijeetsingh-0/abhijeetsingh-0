@@ -16,7 +16,6 @@
 - 🌍 Based in: `YourLocation`  
 - ⚡ Fun fact: I can break production and fix it before anyone notices 😎
 
----
 
 ## 🔧 My Toolbox
 
@@ -30,18 +29,15 @@
 
 </div>
 
----
 
-## 📈 GitHub Stats & Activity
+## My Progress
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="130" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=abhijeetsingh-0&theme=tokyonight&hide_border=true&r=1" height="130" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsingh-0&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="120" alt="Top Languages" />
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet-singhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhijeet-singhh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
 </div>
+<br><br>
 
-
----
 
 ## 🛠️ Projects
 
@@ -57,7 +53,6 @@ Tech: `TypeScript` `Node.js`
 
 _And more in the works!_
 
----
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -66,7 +61,6 @@ _And more in the works!_
 - [From Zero to Full Stack with Next.js](#)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 ## 🎯 Goals for 2025
 
@@ -75,7 +69,6 @@ _And more in the works!_
 - 💡 Learn Rust or Go  
 - 🌍 Collaborate with 5+ devs on GitHub
 
----
 
 ## 🔗 Connect with Me
 
