@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFB2&width=800&lines=Hi+there%2C+I'm+Abhijeet+Singh+%F0%9F%91%8B;Full-stack+Developer+%7C+Open-source+Contributor;Passionate+about+building+and+breaking+the+web)](https://git.io/typing-svg)
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername&left_text=Profile+Views&style=flat-square&color=00c2cb" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhijeetsingh-0.abhijeetsingh-0&left_text=Profile+Views&style=flat-square&color=00c2cb" />
 </div>
 
 ---
@@ -33,8 +33,8 @@
 ## My Progress
 
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet-singhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhijeet-singhh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsingh-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhijeetsingh-0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
 </div>
 <br><br>
 
