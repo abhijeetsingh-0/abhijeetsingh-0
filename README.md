@@ -34,14 +34,12 @@
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=abhijeetsingh-0&theme=tokyonight&hide_border=true&r=1" height="180" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="130" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=abhijeetsingh-0&theme=tokyonight&hide_border=true&r=1" height="130" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsingh-0&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="120" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsingh-0&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="130" />
-</div>
 
 ---
 
